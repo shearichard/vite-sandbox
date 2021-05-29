@@ -1,6 +1,9 @@
 {
-  "name": "vite-project",
-  "version": "0.0.0",
+  "name": "vite-sandbox",
+  "author": "Richard Shea",
+  "license": "MIT",
+  "description": "vite-sandbox is a project to try out the Vite, a build tool that aims to provide a faster and leaner development experience for modern web projects. ",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
