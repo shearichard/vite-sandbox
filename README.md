@@ -5,8 +5,7 @@ There are [other projects](https://vitejs.dev/guide/comparisons.html) covering s
 
 There are a [number of templates](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) provided, the initial focus of Vite was Vue but React and a number of others are supported and in each case you can use a 'with Typescript' or just a plain 'no Typescript' version.
 
-##
-Starting the server in this project
+## Starting the server in this project
 
 ```
 yarn dev
